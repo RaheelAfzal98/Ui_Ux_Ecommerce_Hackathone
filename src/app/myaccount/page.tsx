@@ -8,7 +8,7 @@ function MyAccount() {
     return (
         <div className="max-w-screen-2xl container mx-auto pb-8 px-4">
             <div className="bg-gray-100">
-                <Header />
+                <Header />  
             </div>
             {/* Banner Section */}
             <div className="relative text-black">
